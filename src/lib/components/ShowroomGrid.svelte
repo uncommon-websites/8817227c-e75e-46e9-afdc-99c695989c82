@@ -7,24 +7,24 @@
       <!-- Card 1 -->
       <div class="relative h-[400px] rounded-2xl overflow-hidden group cursor-pointer">
         <img 
-          src="https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2069&auto=format&fit=crop" 
-          alt="Showroom" 
+          src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2053&auto=format&fit=crop" 
+          alt="Project gallery" 
           class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
         />
         <div class="absolute inset-0 bg-black/10 p-8 flex flex-col justify-between">
-          <h3 class="text-white text-2xl font-light max-w-[200px]">Experience Backyard in person. <br>Visit a showroom -></h3>
+          <h3 class="text-white text-2xl font-light max-w-[200px]">See our completed projects. <br>View gallery -></h3>
         </div>
       </div>
 
       <!-- Card 2 -->
       <div class="relative h-[400px] rounded-2xl overflow-hidden group cursor-pointer">
         <img 
-          src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?q=80&w=2089&auto=format&fit=crop" 
-          alt="Construction" 
+          src="https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?q=80&w=2070&auto=format&fit=crop" 
+          alt="Construction process" 
           class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
         />
         <div class="absolute inset-0 bg-black/10 p-8 flex flex-col justify-between">
-          <h3 class="text-white text-2xl font-light max-w-[300px]">Learn how we squeeze a whole house into your yard. <br>How it works -></h3>
+          <h3 class="text-white text-2xl font-light max-w-[300px]">Learn about our on-site manufacturing process. <br>How it works -></h3>
         </div>
       </div>
     </div>

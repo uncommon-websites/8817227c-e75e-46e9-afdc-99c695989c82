@@ -5,22 +5,22 @@
   <div class="max-w-[1200px] mx-auto grid grid-cols-1 md:grid-cols-2 gap-12 items-center mb-24">
     <div>
       <h2 class="text-[40px] font-light text-gray-900 leading-tight mb-6">
-        Available in California.<br>
-        Starting at $152k<br>
-        plus installation. ⓘ
+        Serving Florida and<br>
+        the Deep South.<br>
+        Starting at $2,000. ⓘ
       </h2>
       <a href="#" class="text-blue-600 text-2xl font-light hover:text-blue-700 transition-colors flex items-center gap-2 mb-4">
-        Design yours ->
+        Get your quote ->
       </a>
       <a href="#" class="text-gray-400 text-xs hover:text-gray-600 transition-colors">
-        Not in California? Tell us where to build next >
+        Outside our service area? Contact us to learn more >
       </a>
     </div>
     
-    <div class="h-[300px] bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100 flex items-center justify-center relative">
-        <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2070&auto=format&fit=crop" class="h-[80%] object-contain" alt="House Model" />
+    <div class="h-[300px] bg-white rounded-xl border border-gray-100 flex items-center justify-center relative">
+        <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2053&auto=format&fit=crop" class="h-[80%] object-contain" alt="Pole Barn" />
         <div class="absolute bottom-4 right-4 bg-white border border-gray-200 rounded px-2 py-1 text-[10px] font-bold uppercase tracking-wider">
-            Backyard Studio
+            Gable Roof Kit
         </div>
     </div>
   </div>
@@ -109,7 +109,7 @@
   </div>
 
   <div class="max-w-[1200px] mx-auto mt-24 pt-8 border-t border-gray-200 flex flex-col md:flex-row justify-between items-center text-[10px] text-gray-400">
-    <p>© 2024 Samara Living Inc.</p>
+    <p>© 2024 Deep South Pole Barns. Family-owned since 1983.</p>
     <div class="flex gap-4 mt-4 md:mt-0">
       <a href="#" class="hover:text-gray-600">Privacy policy</a>
       <a href="#" class="hover:text-gray-600">Terms of service</a>
